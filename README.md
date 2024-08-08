@@ -1,4 +1,4 @@
-A telegram bot for learning the real-world words of the Chinese language, which I made for friends of linguists.
+A telegram bot for learning the real words of the Chinese language, which I made for friends of linguists.
 
 The main functionality:
 1. Translation of real words using the ChatGPT API 
